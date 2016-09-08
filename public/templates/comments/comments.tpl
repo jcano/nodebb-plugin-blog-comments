@@ -18,7 +18,6 @@
 		</form>
 		<!-- ELSE -->
 		</form>
-		<button class="btn btn-primary" id="nodebb-register">Register</button>
 		<button class="btn btn-primary" id="nodebb-login">Login</button>
 		<br />
 		<!-- ENDIF isLoggedIn -->
